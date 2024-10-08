@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IntentActividad3</string>
+    <string name="button">Enviar datos</string>
+    <string name="edadMain">edad</string>
+    <string name="nombreMain">nombre</string>
+</resources>
